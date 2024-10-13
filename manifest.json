@@ -1,0 +1,20 @@
+{
+  "name": "educon",
+  "short_name": "educon",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/pw/AP1GczNfoavqwo5dVwdGcMHCNHr6AKjQZVNBytywXuTIc19mmqK3Gf8-FjgZvZUIjXDMm2RFvfZVJ2Y-Pig2dNMNxEMpDHqFYFJWmP5ybKVseVJk86yyC08=s192-p-k",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/pw/AP1GczOHXkLY16_4nGcDivtx7PmGU7BU7uYLb3UhUMEGbThVIGSy5ZdZAyELW1LQ_35Zxow6BiY-CzJOExa3nzcxE3vQhXPvIG4-g-0F_ZcTV8HMqx1ivbg=w2400",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
